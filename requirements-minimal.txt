@@ -1,0 +1,34 @@
+# Minimal requirements - install these first if full install fails
+# Core ML Libraries (flexible versions)
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+
+# Data Collection
+requests
+beautifulsoup4
+lxml
+cloudscraper
+
+# MLOps
+mlflow
+optuna
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Frontend
+streamlit
+plotly
+
+# Utilities
+python-dotenv
+joblib
+
+# Note: CatBoost is optional - install separately if needed:
+# pip install catboost
+

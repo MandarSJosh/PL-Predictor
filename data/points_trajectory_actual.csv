@@ -1,0 +1,619 @@
+Team,Date,pts,type,Points,GW
+Arsenal,2025-08-17 16:30:00,3.0,actual,3.0,1
+Arsenal,2025-08-23 17:30:00,3.0,actual,6.0,2
+Arsenal,2025-08-31 16:30:00,0.0,actual,6.0,3
+Arsenal,2025-09-13 12:30:00,3.0,actual,9.0,4
+Arsenal,2025-09-21 16:30:00,1.0,actual,10.0,5
+Arsenal,2025-09-28 16:30:00,3.0,actual,13.0,6
+Arsenal,2025-10-04 15:00:00,3.0,actual,16.0,7
+Arsenal,2025-10-18 17:30:00,3.0,actual,19.0,8
+Arsenal,2025-10-26 14:00:00,3.0,actual,22.0,9
+Arsenal,2025-11-01 15:00:00,3.0,actual,25.0,10
+Arsenal,2025-11-08 17:30:00,1.0,actual,26.0,11
+Arsenal,2025-11-23 16:30:00,3.0,actual,29.0,12
+Arsenal,2025-11-30 16:30:00,1.0,actual,30.0,13
+Arsenal,2025-12-03 19:30:00,3.0,actual,33.0,14
+Arsenal,2025-12-06 12:30:00,0.0,actual,33.0,15
+Arsenal,2025-12-13 20:00:00,3.0,actual,36.0,16
+Arsenal,2025-12-20 20:00:00,3.0,actual,39.0,17
+Arsenal,2025-12-27 15:00:00,3.0,actual,42.0,18
+Arsenal,2025-12-30 20:15:00,3.0,actual,45.0,19
+Arsenal,2026-01-03 17:30:00,3.0,actual,48.0,20
+Arsenal,2026-01-08 20:00:00,1.0,actual,49.0,21
+Arsenal,2026-01-17 17:30:00,1.0,actual,50.0,22
+Arsenal,2026-01-25 16:30:00,0.0,actual,50.0,23
+Arsenal,2026-01-31 15:00:00,3.0,actual,53.0,24
+Arsenal,2026-02-07 15:00:00,3.0,actual,56.0,25
+Arsenal,2026-02-12 20:00:00,1.0,actual,57.0,26
+Arsenal,2026-02-18 20:00:00,1.0,actual,58.0,27
+Arsenal,2026-02-22 16:30:00,3.0,actual,61.0,28
+Arsenal,2026-03-01 16:30:00,3.0,actual,64.0,29
+Arsenal,2026-03-04 19:30:00,3.0,actual,67.0,30
+Arsenal,2026-03-14 17:30:00,3.0,actual,70.0,31
+Aston Villa,2025-08-16 12:30:00,1.0,actual,1.0,1
+Aston Villa,2025-08-23 15:00:00,0.0,actual,1.0,2
+Aston Villa,2025-08-31 19:00:00,0.0,actual,1.0,3
+Aston Villa,2025-09-13 15:00:00,1.0,actual,2.0,4
+Aston Villa,2025-09-21 14:00:00,1.0,actual,3.0,5
+Aston Villa,2025-09-28 14:00:00,3.0,actual,6.0,6
+Aston Villa,2025-10-05 14:00:00,3.0,actual,9.0,7
+Aston Villa,2025-10-19 14:00:00,3.0,actual,12.0,8
+Aston Villa,2025-10-26 14:00:00,3.0,actual,15.0,9
+Aston Villa,2025-11-01 20:00:00,0.0,actual,15.0,10
+Aston Villa,2025-11-09 14:00:00,3.0,actual,18.0,11
+Aston Villa,2025-11-23 14:00:00,3.0,actual,21.0,12
+Aston Villa,2025-11-30 14:05:00,3.0,actual,24.0,13
+Aston Villa,2025-12-03 19:30:00,3.0,actual,27.0,14
+Aston Villa,2025-12-06 12:30:00,3.0,actual,30.0,15
+Aston Villa,2025-12-14 14:00:00,3.0,actual,33.0,16
+Aston Villa,2025-12-21 16:30:00,3.0,actual,36.0,17
+Aston Villa,2025-12-27 17:30:00,3.0,actual,39.0,18
+Aston Villa,2025-12-30 20:15:00,0.0,actual,39.0,19
+Aston Villa,2026-01-03 12:30:00,3.0,actual,42.0,20
+Aston Villa,2026-01-07 19:30:00,1.0,actual,43.0,21
+Aston Villa,2026-01-18 16:30:00,0.0,actual,43.0,22
+Aston Villa,2026-01-25 14:00:00,3.0,actual,46.0,23
+Aston Villa,2026-02-01 14:00:00,0.0,actual,46.0,24
+Aston Villa,2026-02-07 15:00:00,1.0,actual,47.0,25
+Aston Villa,2026-02-11 19:30:00,3.0,actual,50.0,26
+Aston Villa,2026-02-21 15:00:00,1.0,actual,51.0,27
+Aston Villa,2026-02-27 20:00:00,0.0,actual,51.0,28
+Aston Villa,2026-03-04 19:30:00,0.0,actual,51.0,29
+Aston Villa,2026-03-15 14:00:00,0.0,actual,51.0,30
+Aston Villa,2026-03-22 14:15:00,3.0,actual,54.0,31
+Bournemouth,2025-08-15 20:00:00,0.0,actual,0.0,1
+Bournemouth,2025-08-23 15:00:00,3.0,actual,3.0,2
+Bournemouth,2025-08-30 15:00:00,3.0,actual,6.0,3
+Bournemouth,2025-09-13 15:00:00,3.0,actual,9.0,4
+Bournemouth,2025-09-21 14:00:00,1.0,actual,10.0,5
+Bournemouth,2025-09-27 15:00:00,1.0,actual,11.0,6
+Bournemouth,2025-10-03 20:00:00,3.0,actual,14.0,7
+Bournemouth,2025-10-18 15:00:00,1.0,actual,15.0,8
+Bournemouth,2025-10-26 14:00:00,3.0,actual,18.0,9
+Bournemouth,2025-11-02 16:30:00,0.0,actual,18.0,10
+Bournemouth,2025-11-09 14:00:00,0.0,actual,18.0,11
+Bournemouth,2025-11-22 15:00:00,1.0,actual,19.0,12
+Bournemouth,2025-11-29 15:00:00,0.0,actual,19.0,13
+Bournemouth,2025-12-02 19:30:00,0.0,actual,19.0,14
+Bournemouth,2025-12-06 15:00:00,1.0,actual,20.0,15
+Bournemouth,2025-12-15 20:00:00,1.0,actual,21.0,16
+Bournemouth,2025-12-20 15:00:00,1.0,actual,22.0,17
+Bournemouth,2025-12-27 15:00:00,0.0,actual,22.0,18
+Bournemouth,2025-12-30 19:30:00,1.0,actual,23.0,19
+Bournemouth,2026-01-03 17:30:00,0.0,actual,23.0,20
+Bournemouth,2026-01-07 19:30:00,3.0,actual,26.0,21
+Bournemouth,2026-01-19 20:00:00,1.0,actual,27.0,22
+Bournemouth,2026-01-24 17:30:00,3.0,actual,30.0,23
+Bournemouth,2026-01-31 15:00:00,3.0,actual,33.0,24
+Bournemouth,2026-02-07 15:00:00,1.0,actual,34.0,25
+Bournemouth,2026-02-10 19:30:00,3.0,actual,37.0,26
+Bournemouth,2026-02-21 17:30:00,1.0,actual,38.0,27
+Bournemouth,2026-02-28 12:30:00,1.0,actual,39.0,28
+Bournemouth,2026-03-03 19:30:00,1.0,actual,40.0,29
+Bournemouth,2026-03-14 15:00:00,1.0,actual,41.0,30
+Bournemouth,2026-03-20 20:00:00,1.0,actual,42.0,31
+Brentford,2025-08-17 14:00:00,0.0,actual,0.0,1
+Brentford,2025-08-23 15:00:00,3.0,actual,3.0,2
+Brentford,2025-08-30 15:00:00,0.0,actual,3.0,3
+Brentford,2025-09-13 20:00:00,1.0,actual,4.0,4
+Brentford,2025-09-20 20:00:00,0.0,actual,4.0,5
+Brentford,2025-09-27 12:30:00,3.0,actual,7.0,6
+Brentford,2025-10-05 16:30:00,0.0,actual,7.0,7
+Brentford,2025-10-20 20:00:00,3.0,actual,10.0,8
+Brentford,2025-10-25 20:00:00,3.0,actual,13.0,9
+Brentford,2025-11-01 15:00:00,0.0,actual,13.0,10
+Brentford,2025-11-09 14:00:00,3.0,actual,16.0,11
+Brentford,2025-11-22 15:00:00,0.0,actual,16.0,12
+Brentford,2025-11-29 15:00:00,3.0,actual,19.0,13
+Brentford,2025-12-03 19:30:00,0.0,actual,19.0,14
+Brentford,2025-12-06 15:00:00,0.0,actual,19.0,15
+Brentford,2025-12-14 16:30:00,1.0,actual,20.0,16
+Brentford,2025-12-20 15:00:00,3.0,actual,23.0,17
+Brentford,2025-12-27 15:00:00,3.0,actual,26.0,18
+Brentford,2026-01-01 20:00:00,1.0,actual,27.0,19
+Brentford,2026-01-04 15:00:00,3.0,actual,30.0,20
+Brentford,2026-01-07 19:30:00,3.0,actual,33.0,21
+Brentford,2026-01-17 15:00:00,0.0,actual,33.0,22
+Brentford,2026-01-25 14:00:00,0.0,actual,33.0,23
+Brentford,2026-02-01 14:00:00,3.0,actual,36.0,24
+Brentford,2026-02-07 17:30:00,3.0,actual,39.0,25
+Brentford,2026-02-12 20:00:00,1.0,actual,40.0,26
+Brentford,2026-02-21 15:00:00,0.0,actual,40.0,27
+Brentford,2026-02-28 15:00:00,3.0,actual,43.0,28
+Brentford,2026-03-03 19:30:00,1.0,actual,44.0,29
+Brentford,2026-03-16 20:00:00,1.0,actual,45.0,30
+Brentford,2026-03-21 20:00:00,1.0,actual,46.0,31
+Brighton,2025-08-16 15:00:00,1.0,actual,1.0,1
+Brighton,2025-08-24 14:00:00,0.0,actual,1.0,2
+Brighton,2025-08-31 14:00:00,3.0,actual,4.0,3
+Brighton,2025-09-13 15:00:00,0.0,actual,4.0,4
+Brighton,2025-09-20 15:00:00,1.0,actual,5.0,5
+Brighton,2025-09-27 15:00:00,3.0,actual,8.0,6
+Brighton,2025-10-05 14:00:00,1.0,actual,9.0,7
+Brighton,2025-10-18 15:00:00,3.0,actual,12.0,8
+Brighton,2025-10-25 17:30:00,0.0,actual,12.0,9
+Brighton,2025-11-01 15:00:00,3.0,actual,15.0,10
+Brighton,2025-11-09 14:00:00,1.0,actual,16.0,11
+Brighton,2025-11-22 15:00:00,3.0,actual,19.0,12
+Brighton,2025-11-30 14:05:00,3.0,actual,22.0,13
+Brighton,2025-12-03 19:30:00,0.0,actual,22.0,14
+Brighton,2025-12-07 14:00:00,1.0,actual,23.0,15
+Brighton,2025-12-13 15:00:00,0.0,actual,23.0,16
+Brighton,2025-12-20 15:00:00,1.0,actual,24.0,17
+Brighton,2025-12-27 15:00:00,0.0,actual,24.0,18
+Brighton,2025-12-30 19:30:00,1.0,actual,25.0,19
+Brighton,2026-01-03 15:00:00,3.0,actual,28.0,20
+Brighton,2026-01-07 19:30:00,1.0,actual,29.0,21
+Brighton,2026-01-19 20:00:00,1.0,actual,30.0,22
+Brighton,2026-01-24 15:00:00,0.0,actual,30.0,23
+Brighton,2026-01-31 15:00:00,1.0,actual,31.0,24
+Brighton,2026-02-08 14:00:00,0.0,actual,31.0,25
+Brighton,2026-02-11 19:30:00,0.0,actual,31.0,26
+Brighton,2026-02-21 15:00:00,3.0,actual,34.0,27
+Brighton,2026-03-01 14:00:00,3.0,actual,37.0,28
+Brighton,2026-03-04 19:30:00,0.0,actual,37.0,29
+Brighton,2026-03-14 15:00:00,3.0,actual,40.0,30
+Brighton,2026-03-21 12:45:00,3.0,actual,43.0,31
+Burnley,2025-08-16 15:00:00,0.0,actual,0.0,1
+Burnley,2025-08-23 15:00:00,3.0,actual,3.0,2
+Burnley,2025-08-30 15:00:00,0.0,actual,3.0,3
+Burnley,2025-09-14 14:00:00,0.0,actual,3.0,4
+Burnley,2025-09-20 15:00:00,1.0,actual,4.0,5
+Burnley,2025-09-27 15:00:00,0.0,actual,4.0,6
+Burnley,2025-10-05 14:00:00,0.0,actual,4.0,7
+Burnley,2025-10-18 15:00:00,3.0,actual,7.0,8
+Burnley,2025-10-26 14:00:00,3.0,actual,10.0,9
+Burnley,2025-11-01 15:00:00,0.0,actual,10.0,10
+Burnley,2025-11-08 15:00:00,0.0,actual,10.0,11
+Burnley,2025-11-22 12:30:00,0.0,actual,10.0,12
+Burnley,2025-11-29 15:00:00,0.0,actual,10.0,13
+Burnley,2025-12-03 19:30:00,0.0,actual,10.0,14
+Burnley,2025-12-06 15:00:00,0.0,actual,10.0,15
+Burnley,2025-12-13 17:30:00,0.0,actual,10.0,16
+Burnley,2025-12-20 15:00:00,1.0,actual,11.0,17
+Burnley,2025-12-27 15:00:00,1.0,actual,12.0,18
+Burnley,2025-12-30 19:30:00,0.0,actual,12.0,19
+Burnley,2026-01-03 15:00:00,0.0,actual,12.0,20
+Burnley,2026-01-07 20:15:00,1.0,actual,13.0,21
+Burnley,2026-01-17 15:00:00,1.0,actual,14.0,22
+Burnley,2026-01-24 15:00:00,1.0,actual,15.0,23
+Burnley,2026-02-02 20:00:00,0.0,actual,15.0,24
+Burnley,2026-02-07 15:00:00,0.0,actual,15.0,25
+Burnley,2026-02-11 19:40:00,3.0,actual,18.0,26
+Burnley,2026-02-21 15:00:00,1.0,actual,19.0,27
+Burnley,2026-02-28 15:00:00,0.0,actual,19.0,28
+Burnley,2026-03-03 19:30:00,0.0,actual,19.0,29
+Burnley,2026-03-14 15:00:00,1.0,actual,20.0,30
+Burnley,2026-03-21 15:00:00,0.0,actual,20.0,31
+Chelsea,2025-08-17 14:00:00,1.0,actual,1.0,1
+Chelsea,2025-08-22 20:00:00,3.0,actual,4.0,2
+Chelsea,2025-08-30 12:30:00,3.0,actual,7.0,3
+Chelsea,2025-09-13 20:00:00,1.0,actual,8.0,4
+Chelsea,2025-09-20 17:30:00,0.0,actual,8.0,5
+Chelsea,2025-09-27 15:00:00,0.0,actual,8.0,6
+Chelsea,2025-10-04 17:30:00,3.0,actual,11.0,7
+Chelsea,2025-10-18 12:30:00,3.0,actual,14.0,8
+Chelsea,2025-10-25 15:00:00,0.0,actual,14.0,9
+Chelsea,2025-11-01 17:30:00,3.0,actual,17.0,10
+Chelsea,2025-11-08 20:00:00,3.0,actual,20.0,11
+Chelsea,2025-11-22 12:30:00,3.0,actual,23.0,12
+Chelsea,2025-11-30 16:30:00,1.0,actual,24.0,13
+Chelsea,2025-12-03 20:15:00,0.0,actual,24.0,14
+Chelsea,2025-12-06 15:00:00,1.0,actual,25.0,15
+Chelsea,2025-12-13 15:00:00,3.0,actual,28.0,16
+Chelsea,2025-12-20 12:30:00,1.0,actual,29.0,17
+Chelsea,2025-12-27 17:30:00,0.0,actual,29.0,18
+Chelsea,2025-12-30 19:30:00,1.0,actual,30.0,19
+Chelsea,2026-01-04 17:30:00,1.0,actual,31.0,20
+Chelsea,2026-01-07 19:30:00,0.0,actual,31.0,21
+Chelsea,2026-01-17 15:00:00,3.0,actual,34.0,22
+Chelsea,2026-01-25 14:00:00,3.0,actual,37.0,23
+Chelsea,2026-01-31 17:30:00,3.0,actual,40.0,24
+Chelsea,2026-02-07 15:00:00,3.0,actual,43.0,25
+Chelsea,2026-02-10 19:30:00,1.0,actual,44.0,26
+Chelsea,2026-02-21 15:00:00,1.0,actual,45.0,27
+Chelsea,2026-03-01 16:30:00,0.0,actual,45.0,28
+Chelsea,2026-03-04 19:30:00,3.0,actual,48.0,29
+Chelsea,2026-03-14 17:30:00,0.0,actual,48.0,30
+Chelsea,2026-03-21 17:30:00,0.0,actual,48.0,31
+Crystal Palace,2025-08-17 14:00:00,1.0,actual,1.0,1
+Crystal Palace,2025-08-24 14:00:00,1.0,actual,2.0,2
+Crystal Palace,2025-08-31 19:00:00,3.0,actual,5.0,3
+Crystal Palace,2025-09-13 15:00:00,1.0,actual,6.0,4
+Crystal Palace,2025-09-20 15:00:00,3.0,actual,9.0,5
+Crystal Palace,2025-09-27 15:00:00,3.0,actual,12.0,6
+Crystal Palace,2025-10-05 14:00:00,0.0,actual,12.0,7
+Crystal Palace,2025-10-18 15:00:00,1.0,actual,13.0,8
+Crystal Palace,2025-10-26 14:00:00,0.0,actual,13.0,9
+Crystal Palace,2025-11-01 15:00:00,3.0,actual,16.0,10
+Crystal Palace,2025-11-09 14:00:00,1.0,actual,17.0,11
+Crystal Palace,2025-11-22 15:00:00,3.0,actual,20.0,12
+Crystal Palace,2025-11-30 12:00:00,0.0,actual,20.0,13
+Crystal Palace,2025-12-03 19:30:00,3.0,actual,23.0,14
+Crystal Palace,2025-12-07 16:30:00,3.0,actual,26.0,15
+Crystal Palace,2025-12-14 14:00:00,0.0,actual,26.0,16
+Crystal Palace,2025-12-20 20:00:00,0.0,actual,26.0,17
+Crystal Palace,2025-12-28 16:30:00,0.0,actual,26.0,18
+Crystal Palace,2026-01-01 17:30:00,1.0,actual,27.0,19
+Crystal Palace,2026-01-04 15:00:00,0.0,actual,27.0,20
+Crystal Palace,2026-01-07 19:30:00,1.0,actual,28.0,21
+Crystal Palace,2026-01-17 15:00:00,0.0,actual,28.0,22
+Crystal Palace,2026-01-25 14:00:00,0.0,actual,28.0,23
+Crystal Palace,2026-02-01 14:00:00,1.0,actual,29.0,24
+Crystal Palace,2026-02-08 14:00:00,3.0,actual,32.0,25
+Crystal Palace,2026-02-11 19:40:00,0.0,actual,32.0,26
+Crystal Palace,2026-02-22 14:00:00,3.0,actual,35.0,27
+Crystal Palace,2026-03-01 14:00:00,0.0,actual,35.0,28
+Crystal Palace,2026-03-05 20:00:00,3.0,actual,38.0,29
+Crystal Palace,2026-03-15 14:00:00,1.0,actual,39.0,30
+Everton,2025-08-18 20:00:00,0.0,actual,0.0,1
+Everton,2025-08-24 14:00:00,3.0,actual,3.0,2
+Everton,2025-08-30 15:00:00,3.0,actual,6.0,3
+Everton,2025-09-13 15:00:00,1.0,actual,7.0,4
+Everton,2025-09-20 12:30:00,0.0,actual,7.0,5
+Everton,2025-09-29 20:00:00,1.0,actual,8.0,6
+Everton,2025-10-05 14:00:00,3.0,actual,11.0,7
+Everton,2025-10-18 15:00:00,0.0,actual,11.0,8
+Everton,2025-10-26 16:30:00,0.0,actual,11.0,9
+Everton,2025-11-03 20:00:00,1.0,actual,12.0,10
+Everton,2025-11-08 15:00:00,3.0,actual,15.0,11
+Everton,2025-11-24 20:00:00,3.0,actual,18.0,12
+Everton,2025-11-29 17:30:00,0.0,actual,18.0,13
+Everton,2025-12-02 19:30:00,3.0,actual,21.0,14
+Everton,2025-12-06 15:00:00,3.0,actual,24.0,15
+Everton,2025-12-13 15:00:00,0.0,actual,24.0,16
+Everton,2025-12-20 20:00:00,0.0,actual,24.0,17
+Everton,2025-12-27 15:00:00,1.0,actual,25.0,18
+Everton,2025-12-30 19:30:00,3.0,actual,28.0,19
+Everton,2026-01-04 15:00:00,0.0,actual,28.0,20
+Everton,2026-01-07 19:30:00,1.0,actual,29.0,21
+Everton,2026-01-18 16:30:00,3.0,actual,32.0,22
+Everton,2026-01-26 20:00:00,1.0,actual,33.0,23
+Everton,2026-01-31 15:00:00,1.0,actual,34.0,24
+Everton,2026-02-07 15:00:00,3.0,actual,37.0,25
+Everton,2026-02-10 19:30:00,0.0,actual,37.0,26
+Everton,2026-02-23 20:00:00,0.0,actual,37.0,27
+Everton,2026-02-28 15:00:00,3.0,actual,40.0,28
+Everton,2026-03-03 19:30:00,3.0,actual,43.0,29
+Everton,2026-03-14 17:30:00,0.0,actual,43.0,30
+Everton,2026-03-21 17:30:00,3.0,actual,46.0,31
+Fulham,2025-08-16 15:00:00,1.0,actual,1.0,1
+Fulham,2025-08-24 16:30:00,1.0,actual,2.0,2
+Fulham,2025-08-30 12:30:00,0.0,actual,2.0,3
+Fulham,2025-09-13 15:00:00,3.0,actual,5.0,4
+Fulham,2025-09-20 20:00:00,3.0,actual,8.0,5
+Fulham,2025-09-28 14:00:00,0.0,actual,8.0,6
+Fulham,2025-10-03 20:00:00,0.0,actual,8.0,7
+Fulham,2025-10-18 17:30:00,0.0,actual,8.0,8
+Fulham,2025-10-25 15:00:00,0.0,actual,8.0,9
+Fulham,2025-11-01 15:00:00,3.0,actual,11.0,10
+Fulham,2025-11-08 15:00:00,0.0,actual,11.0,11
+Fulham,2025-11-22 15:00:00,3.0,actual,14.0,12
+Fulham,2025-11-29 20:00:00,3.0,actual,17.0,13
+Fulham,2025-12-02 19:30:00,0.0,actual,17.0,14
+Fulham,2025-12-07 16:30:00,0.0,actual,17.0,15
+Fulham,2025-12-13 17:30:00,3.0,actual,20.0,16
+Fulham,2025-12-22 20:00:00,3.0,actual,23.0,17
+Fulham,2025-12-27 15:00:00,3.0,actual,26.0,18
+Fulham,2026-01-01 17:30:00,1.0,actual,27.0,19
+Fulham,2026-01-04 15:15:00,1.0,actual,28.0,20
+Fulham,2026-01-07 19:30:00,3.0,actual,31.0,21
+Fulham,2026-01-17 15:00:00,0.0,actual,31.0,22
+Fulham,2026-01-24 15:00:00,3.0,actual,34.0,23
+Fulham,2026-02-01 14:00:00,0.0,actual,34.0,24
+Fulham,2026-02-07 15:00:00,0.0,actual,34.0,25
+Fulham,2026-02-11 19:30:00,0.0,actual,34.0,26
+Fulham,2026-02-22 14:00:00,3.0,actual,37.0,27
+Fulham,2026-03-01 14:00:00,3.0,actual,40.0,28
+Fulham,2026-03-04 19:30:00,0.0,actual,40.0,29
+Fulham,2026-03-15 14:00:00,1.0,actual,41.0,30
+Fulham,2026-03-21 15:00:00,3.0,actual,44.0,31
+Leeds,2025-08-18 20:00:00,3.0,actual,3.0,1
+Leeds,2025-08-23 17:30:00,0.0,actual,3.0,2
+Leeds,2025-08-30 17:30:00,1.0,actual,4.0,3
+Leeds,2025-09-13 15:00:00,0.0,actual,4.0,4
+Leeds,2025-09-20 15:00:00,3.0,actual,7.0,5
+Leeds,2025-09-27 15:00:00,1.0,actual,8.0,6
+Leeds,2025-10-04 12:30:00,0.0,actual,8.0,7
+Leeds,2025-10-18 15:00:00,0.0,actual,8.0,8
+Leeds,2025-10-24 20:00:00,3.0,actual,11.0,9
+Leeds,2025-11-01 15:00:00,0.0,actual,11.0,10
+Leeds,2025-11-09 14:00:00,0.0,actual,11.0,11
+Leeds,2025-11-23 14:00:00,0.0,actual,11.0,12
+Leeds,2025-11-29 15:00:00,0.0,actual,11.0,13
+Leeds,2025-12-03 20:15:00,3.0,actual,14.0,14
+Leeds,2025-12-06 17:30:00,1.0,actual,15.0,15
+Leeds,2025-12-14 16:30:00,1.0,actual,16.0,16
+Leeds,2025-12-20 20:00:00,3.0,actual,19.0,17
+Leeds,2025-12-28 14:00:00,1.0,actual,20.0,18
+Leeds,2026-01-01 17:30:00,1.0,actual,21.0,19
+Leeds,2026-01-04 12:30:00,1.0,actual,22.0,20
+Leeds,2026-01-07 20:15:00,0.0,actual,22.0,21
+Leeds,2026-01-17 15:00:00,3.0,actual,25.0,22
+Leeds,2026-01-26 20:00:00,1.0,actual,26.0,23
+Leeds,2026-01-31 15:00:00,0.0,actual,26.0,24
+Leeds,2026-02-06 20:00:00,3.0,actual,29.0,25
+Leeds,2026-02-10 19:30:00,1.0,actual,30.0,26
+Leeds,2026-02-21 15:00:00,1.0,actual,31.0,27
+Leeds,2026-02-28 17:30:00,0.0,actual,31.0,28
+Leeds,2026-03-03 19:30:00,0.0,actual,31.0,29
+Leeds,2026-03-15 14:00:00,1.0,actual,32.0,30
+Leeds,2026-03-21 20:00:00,1.0,actual,33.0,31
+Liverpool,2025-08-15 20:00:00,3.0,actual,3.0,1
+Liverpool,2025-08-25 20:00:00,3.0,actual,6.0,2
+Liverpool,2025-08-31 16:30:00,3.0,actual,9.0,3
+Liverpool,2025-09-14 14:00:00,3.0,actual,12.0,4
+Liverpool,2025-09-20 12:30:00,3.0,actual,15.0,5
+Liverpool,2025-09-27 15:00:00,0.0,actual,15.0,6
+Liverpool,2025-10-04 17:30:00,0.0,actual,15.0,7
+Liverpool,2025-10-19 16:30:00,0.0,actual,15.0,8
+Liverpool,2025-10-25 20:00:00,0.0,actual,15.0,9
+Liverpool,2025-11-01 20:00:00,3.0,actual,18.0,10
+Liverpool,2025-11-09 16:30:00,0.0,actual,18.0,11
+Liverpool,2025-11-22 15:00:00,0.0,actual,18.0,12
+Liverpool,2025-11-30 14:05:00,3.0,actual,21.0,13
+Liverpool,2025-12-03 20:15:00,1.0,actual,22.0,14
+Liverpool,2025-12-06 17:30:00,1.0,actual,23.0,15
+Liverpool,2025-12-13 15:00:00,3.0,actual,26.0,16
+Liverpool,2025-12-20 17:30:00,3.0,actual,29.0,17
+Liverpool,2025-12-27 15:00:00,3.0,actual,32.0,18
+Liverpool,2026-01-01 17:30:00,1.0,actual,33.0,19
+Liverpool,2026-01-04 15:15:00,1.0,actual,34.0,20
+Liverpool,2026-01-08 20:00:00,1.0,actual,35.0,21
+Liverpool,2026-01-17 15:00:00,1.0,actual,36.0,22
+Liverpool,2026-01-24 17:30:00,0.0,actual,36.0,23
+Liverpool,2026-01-31 20:00:00,3.0,actual,39.0,24
+Liverpool,2026-02-08 16:30:00,0.0,actual,39.0,25
+Liverpool,2026-02-11 20:15:00,3.0,actual,42.0,26
+Liverpool,2026-02-22 14:00:00,3.0,actual,45.0,27
+Liverpool,2026-02-28 15:00:00,3.0,actual,48.0,28
+Liverpool,2026-03-03 20:15:00,0.0,actual,48.0,29
+Liverpool,2026-03-15 16:30:00,1.0,actual,49.0,30
+Liverpool,2026-03-21 12:45:00,0.0,actual,49.0,31
+Manchester City,2025-08-16 17:30:00,3.0,actual,3.0,1
+Manchester City,2025-08-23 12:30:00,0.0,actual,3.0,2
+Manchester City,2025-08-31 14:00:00,0.0,actual,3.0,3
+Manchester City,2025-09-14 16:30:00,3.0,actual,6.0,4
+Manchester City,2025-09-21 16:30:00,1.0,actual,7.0,5
+Manchester City,2025-09-27 15:00:00,3.0,actual,10.0,6
+Manchester City,2025-10-05 16:30:00,3.0,actual,13.0,7
+Manchester City,2025-10-18 15:00:00,3.0,actual,16.0,8
+Manchester City,2025-10-26 14:00:00,0.0,actual,16.0,9
+Manchester City,2025-11-02 16:30:00,3.0,actual,19.0,10
+Manchester City,2025-11-09 16:30:00,3.0,actual,22.0,11
+Manchester City,2025-11-22 17:30:00,0.0,actual,22.0,12
+Manchester City,2025-11-29 15:00:00,3.0,actual,25.0,13
+Manchester City,2025-12-02 19:30:00,3.0,actual,28.0,14
+Manchester City,2025-12-06 15:00:00,3.0,actual,31.0,15
+Manchester City,2025-12-14 14:00:00,3.0,actual,34.0,16
+Manchester City,2025-12-20 15:00:00,3.0,actual,37.0,17
+Manchester City,2025-12-27 12:30:00,3.0,actual,40.0,18
+Manchester City,2026-01-01 20:00:00,1.0,actual,41.0,19
+Manchester City,2026-01-04 17:30:00,1.0,actual,42.0,20
+Manchester City,2026-01-07 19:30:00,1.0,actual,43.0,21
+Manchester City,2026-01-17 12:30:00,0.0,actual,43.0,22
+Manchester City,2026-01-24 15:00:00,3.0,actual,46.0,23
+Manchester City,2026-02-01 16:30:00,1.0,actual,47.0,24
+Manchester City,2026-02-08 16:30:00,3.0,actual,50.0,25
+Manchester City,2026-02-11 19:30:00,3.0,actual,53.0,26
+Manchester City,2026-02-21 20:00:00,3.0,actual,56.0,27
+Manchester City,2026-02-28 17:30:00,3.0,actual,59.0,28
+Manchester City,2026-03-04 19:30:00,1.0,actual,60.0,29
+Manchester City,2026-03-14 20:00:00,1.0,actual,61.0,30
+Manchester United,2025-08-17 16:30:00,0.0,actual,0.0,1
+Manchester United,2025-08-24 16:30:00,1.0,actual,1.0,2
+Manchester United,2025-08-30 15:00:00,3.0,actual,4.0,3
+Manchester United,2025-09-14 16:30:00,0.0,actual,4.0,4
+Manchester United,2025-09-20 17:30:00,3.0,actual,7.0,5
+Manchester United,2025-09-27 12:30:00,0.0,actual,7.0,6
+Manchester United,2025-10-04 15:00:00,3.0,actual,10.0,7
+Manchester United,2025-10-19 16:30:00,3.0,actual,13.0,8
+Manchester United,2025-10-25 17:30:00,3.0,actual,16.0,9
+Manchester United,2025-11-01 15:00:00,1.0,actual,17.0,10
+Manchester United,2025-11-08 12:30:00,1.0,actual,18.0,11
+Manchester United,2025-11-24 20:00:00,0.0,actual,18.0,12
+Manchester United,2025-11-30 12:00:00,3.0,actual,21.0,13
+Manchester United,2025-12-04 20:00:00,1.0,actual,22.0,14
+Manchester United,2025-12-08 20:00:00,3.0,actual,25.0,15
+Manchester United,2025-12-15 20:00:00,1.0,actual,26.0,16
+Manchester United,2025-12-21 16:30:00,0.0,actual,26.0,17
+Manchester United,2025-12-26 20:00:00,3.0,actual,29.0,18
+Manchester United,2025-12-30 20:15:00,1.0,actual,30.0,19
+Manchester United,2026-01-04 12:30:00,1.0,actual,31.0,20
+Manchester United,2026-01-07 20:15:00,1.0,actual,32.0,21
+Manchester United,2026-01-17 12:30:00,3.0,actual,35.0,22
+Manchester United,2026-01-25 16:30:00,3.0,actual,38.0,23
+Manchester United,2026-02-01 14:00:00,3.0,actual,41.0,24
+Manchester United,2026-02-07 12:30:00,3.0,actual,44.0,25
+Manchester United,2026-02-10 20:15:00,1.0,actual,45.0,26
+Manchester United,2026-02-23 20:00:00,3.0,actual,48.0,27
+Manchester United,2026-03-01 14:00:00,3.0,actual,51.0,28
+Manchester United,2026-03-04 20:15:00,0.0,actual,51.0,29
+Manchester United,2026-03-15 14:00:00,3.0,actual,54.0,30
+Manchester United,2026-03-20 20:00:00,1.0,actual,55.0,31
+Newcastle,2025-08-16 12:30:00,1.0,actual,1.0,1
+Newcastle,2025-08-25 20:00:00,0.0,actual,1.0,2
+Newcastle,2025-08-30 17:30:00,1.0,actual,2.0,3
+Newcastle,2025-09-13 15:00:00,3.0,actual,5.0,4
+Newcastle,2025-09-21 14:00:00,1.0,actual,6.0,5
+Newcastle,2025-09-28 16:30:00,0.0,actual,6.0,6
+Newcastle,2025-10-05 14:00:00,3.0,actual,9.0,7
+Newcastle,2025-10-18 15:00:00,0.0,actual,9.0,8
+Newcastle,2025-10-25 15:00:00,3.0,actual,12.0,9
+Newcastle,2025-11-02 14:00:00,0.0,actual,12.0,10
+Newcastle,2025-11-09 14:00:00,0.0,actual,12.0,11
+Newcastle,2025-11-22 17:30:00,3.0,actual,15.0,12
+Newcastle,2025-11-29 17:30:00,3.0,actual,18.0,13
+Newcastle,2025-12-02 20:15:00,1.0,actual,19.0,14
+Newcastle,2025-12-06 15:00:00,3.0,actual,22.0,15
+Newcastle,2025-12-14 14:00:00,0.0,actual,22.0,16
+Newcastle,2025-12-20 12:30:00,1.0,actual,23.0,17
+Newcastle,2025-12-26 20:00:00,0.0,actual,23.0,18
+Newcastle,2025-12-30 19:30:00,3.0,actual,26.0,19
+Newcastle,2026-01-04 15:00:00,3.0,actual,29.0,20
+Newcastle,2026-01-07 20:15:00,3.0,actual,32.0,21
+Newcastle,2026-01-18 14:00:00,1.0,actual,33.0,22
+Newcastle,2026-01-25 14:00:00,0.0,actual,33.0,23
+Newcastle,2026-01-31 20:00:00,0.0,actual,33.0,24
+Newcastle,2026-02-07 17:30:00,0.0,actual,33.0,25
+Newcastle,2026-02-10 19:30:00,3.0,actual,36.0,26
+Newcastle,2026-02-21 20:00:00,0.0,actual,36.0,27
+Newcastle,2026-02-28 15:00:00,0.0,actual,36.0,28
+Newcastle,2026-03-04 20:15:00,3.0,actual,39.0,29
+Newcastle,2026-03-14 17:30:00,3.0,actual,42.0,30
+Newcastle,2026-03-22 12:00:00,0.0,actual,42.0,31
+Nottingham Forest,2025-08-17 14:00:00,3.0,actual,3.0,1
+Nottingham Forest,2025-08-24 14:00:00,1.0,actual,4.0,2
+Nottingham Forest,2025-08-31 14:00:00,0.0,actual,4.0,3
+Nottingham Forest,2025-09-13 12:30:00,0.0,actual,4.0,4
+Nottingham Forest,2025-09-20 15:00:00,1.0,actual,5.0,5
+Nottingham Forest,2025-09-27 17:30:00,0.0,actual,5.0,6
+Nottingham Forest,2025-10-05 14:00:00,0.0,actual,5.0,7
+Nottingham Forest,2025-10-18 12:30:00,0.0,actual,5.0,8
+Nottingham Forest,2025-10-26 14:00:00,0.0,actual,5.0,9
+Nottingham Forest,2025-11-01 15:00:00,1.0,actual,6.0,10
+Nottingham Forest,2025-11-09 14:00:00,3.0,actual,9.0,11
+Nottingham Forest,2025-11-22 15:00:00,3.0,actual,12.0,12
+Nottingham Forest,2025-11-30 14:05:00,0.0,actual,12.0,13
+Nottingham Forest,2025-12-03 19:30:00,3.0,actual,15.0,14
+Nottingham Forest,2025-12-06 15:00:00,0.0,actual,15.0,15
+Nottingham Forest,2025-12-14 14:00:00,3.0,actual,18.0,16
+Nottingham Forest,2025-12-22 20:00:00,0.0,actual,18.0,17
+Nottingham Forest,2025-12-27 12:30:00,0.0,actual,18.0,18
+Nottingham Forest,2025-12-30 19:30:00,0.0,actual,18.0,19
+Nottingham Forest,2026-01-03 12:30:00,0.0,actual,18.0,20
+Nottingham Forest,2026-01-06 20:00:00,3.0,actual,21.0,21
+Nottingham Forest,2026-01-17 17:30:00,1.0,actual,22.0,22
+Nottingham Forest,2026-01-25 14:00:00,3.0,actual,25.0,23
+Nottingham Forest,2026-02-01 14:00:00,1.0,actual,26.0,24
+Nottingham Forest,2026-02-06 20:00:00,0.0,actual,26.0,25
+Nottingham Forest,2026-02-11 19:30:00,1.0,actual,27.0,26
+Nottingham Forest,2026-02-22 14:00:00,0.0,actual,27.0,27
+Nottingham Forest,2026-03-01 14:00:00,0.0,actual,27.0,28
+Nottingham Forest,2026-03-04 19:30:00,1.0,actual,28.0,29
+Nottingham Forest,2026-03-15 14:00:00,1.0,actual,29.0,30
+Nottingham Forest,2026-03-22 14:15:00,3.0,actual,32.0,31
+Sunderland,2025-08-16 15:00:00,3.0,actual,3.0,1
+Sunderland,2025-08-23 15:00:00,0.0,actual,3.0,2
+Sunderland,2025-08-30 15:00:00,3.0,actual,6.0,3
+Sunderland,2025-09-13 15:00:00,1.0,actual,7.0,4
+Sunderland,2025-09-21 14:00:00,1.0,actual,8.0,5
+Sunderland,2025-09-27 17:30:00,3.0,actual,11.0,6
+Sunderland,2025-10-04 15:00:00,0.0,actual,11.0,7
+Sunderland,2025-10-18 15:00:00,3.0,actual,14.0,8
+Sunderland,2025-10-25 15:00:00,3.0,actual,17.0,9
+Sunderland,2025-11-03 20:00:00,1.0,actual,18.0,10
+Sunderland,2025-11-08 17:30:00,1.0,actual,19.0,11
+Sunderland,2025-11-22 15:00:00,0.0,actual,19.0,12
+Sunderland,2025-11-29 15:00:00,3.0,actual,22.0,13
+Sunderland,2025-12-03 20:15:00,1.0,actual,23.0,14
+Sunderland,2025-12-06 15:00:00,0.0,actual,23.0,15
+Sunderland,2025-12-14 14:00:00,3.0,actual,26.0,16
+Sunderland,2025-12-20 15:00:00,1.0,actual,27.0,17
+Sunderland,2025-12-28 14:00:00,1.0,actual,28.0,18
+Sunderland,2026-01-01 20:00:00,1.0,actual,29.0,19
+Sunderland,2026-01-04 15:00:00,1.0,actual,30.0,20
+Sunderland,2026-01-07 19:30:00,0.0,actual,30.0,21
+Sunderland,2026-01-17 15:00:00,3.0,actual,33.0,22
+Sunderland,2026-01-24 12:30:00,0.0,actual,33.0,23
+Sunderland,2026-02-02 20:00:00,3.0,actual,36.0,24
+Sunderland,2026-02-07 15:00:00,0.0,actual,36.0,25
+Sunderland,2026-02-11 20:15:00,0.0,actual,36.0,26
+Sunderland,2026-02-22 14:00:00,0.0,actual,36.0,27
+Sunderland,2026-02-28 12:30:00,1.0,actual,37.0,28
+Sunderland,2026-03-03 19:30:00,3.0,actual,40.0,29
+Sunderland,2026-03-14 15:00:00,0.0,actual,40.0,30
+Sunderland,2026-03-22 12:00:00,3.0,actual,43.0,31
+Tottenham,2025-08-16 15:00:00,3.0,actual,3.0,1
+Tottenham,2025-08-23 12:30:00,3.0,actual,6.0,2
+Tottenham,2025-08-30 15:00:00,0.0,actual,6.0,3
+Tottenham,2025-09-13 17:30:00,3.0,actual,9.0,4
+Tottenham,2025-09-20 15:00:00,1.0,actual,10.0,5
+Tottenham,2025-09-27 20:00:00,1.0,actual,11.0,6
+Tottenham,2025-10-04 12:30:00,3.0,actual,14.0,7
+Tottenham,2025-10-19 14:00:00,0.0,actual,14.0,8
+Tottenham,2025-10-26 16:30:00,3.0,actual,17.0,9
+Tottenham,2025-11-01 17:30:00,0.0,actual,17.0,10
+Tottenham,2025-11-08 12:30:00,1.0,actual,18.0,11
+Tottenham,2025-11-23 16:30:00,0.0,actual,18.0,12
+Tottenham,2025-11-29 20:00:00,0.0,actual,18.0,13
+Tottenham,2025-12-02 20:15:00,1.0,actual,19.0,14
+Tottenham,2025-12-06 15:00:00,3.0,actual,22.0,15
+Tottenham,2025-12-14 14:00:00,0.0,actual,22.0,16
+Tottenham,2025-12-20 17:30:00,0.0,actual,22.0,17
+Tottenham,2025-12-28 16:30:00,3.0,actual,25.0,18
+Tottenham,2026-01-01 20:00:00,1.0,actual,26.0,19
+Tottenham,2026-01-04 15:00:00,1.0,actual,27.0,20
+Tottenham,2026-01-07 19:30:00,0.0,actual,27.0,21
+Tottenham,2026-01-17 15:00:00,0.0,actual,27.0,22
+Tottenham,2026-01-24 15:00:00,1.0,actual,28.0,23
+Tottenham,2026-02-01 16:30:00,1.0,actual,29.0,24
+Tottenham,2026-02-07 12:30:00,0.0,actual,29.0,25
+Tottenham,2026-02-10 19:30:00,0.0,actual,29.0,26
+Tottenham,2026-02-22 16:30:00,0.0,actual,29.0,27
+Tottenham,2026-03-01 14:00:00,0.0,actual,29.0,28
+Tottenham,2026-03-05 20:00:00,0.0,actual,29.0,29
+Tottenham,2026-03-15 16:30:00,1.0,actual,30.0,30
+Tottenham,2026-03-22 14:15:00,0.0,actual,30.0,31
+West Ham,2025-08-16 15:00:00,0.0,actual,0.0,1
+West Ham,2025-08-22 20:00:00,0.0,actual,0.0,2
+West Ham,2025-08-31 14:00:00,3.0,actual,3.0,3
+West Ham,2025-09-13 17:30:00,0.0,actual,3.0,4
+West Ham,2025-09-20 15:00:00,0.0,actual,3.0,5
+West Ham,2025-09-29 20:00:00,1.0,actual,4.0,6
+West Ham,2025-10-04 15:00:00,0.0,actual,4.0,7
+West Ham,2025-10-20 20:00:00,0.0,actual,4.0,8
+West Ham,2025-10-24 20:00:00,0.0,actual,4.0,9
+West Ham,2025-11-02 14:00:00,3.0,actual,7.0,10
+West Ham,2025-11-08 15:00:00,3.0,actual,10.0,11
+West Ham,2025-11-22 15:00:00,1.0,actual,11.0,12
+West Ham,2025-11-30 14:05:00,0.0,actual,11.0,13
+West Ham,2025-12-04 20:00:00,1.0,actual,12.0,14
+West Ham,2025-12-07 14:00:00,1.0,actual,13.0,15
+West Ham,2025-12-14 14:00:00,0.0,actual,13.0,16
+West Ham,2025-12-20 15:00:00,0.0,actual,13.0,17
+West Ham,2025-12-27 15:00:00,0.0,actual,13.0,18
+West Ham,2025-12-30 19:30:00,1.0,actual,14.0,19
+West Ham,2026-01-03 15:00:00,0.0,actual,14.0,20
+West Ham,2026-01-06 20:00:00,0.0,actual,14.0,21
+West Ham,2026-01-17 15:00:00,3.0,actual,17.0,22
+West Ham,2026-01-24 12:30:00,3.0,actual,20.0,23
+West Ham,2026-01-31 17:30:00,0.0,actual,20.0,24
+West Ham,2026-02-07 15:00:00,3.0,actual,23.0,25
+West Ham,2026-02-10 20:15:00,1.0,actual,24.0,26
+West Ham,2026-02-21 17:30:00,1.0,actual,25.0,27
+West Ham,2026-02-28 15:00:00,0.0,actual,25.0,28
+West Ham,2026-03-04 19:30:00,3.0,actual,28.0,29
+West Ham,2026-03-14 20:00:00,1.0,actual,29.0,30
+West Ham,2026-03-22 14:15:00,0.0,actual,29.0,31
+Wolves,2025-08-16 17:30:00,0.0,actual,0.0,1
+Wolves,2025-08-23 15:00:00,0.0,actual,0.0,2
+Wolves,2025-08-30 15:00:00,0.0,actual,0.0,3
+Wolves,2025-09-13 15:00:00,0.0,actual,0.0,4
+Wolves,2025-09-20 15:00:00,0.0,actual,0.0,5
+Wolves,2025-09-27 20:00:00,1.0,actual,1.0,6
+Wolves,2025-10-05 14:00:00,1.0,actual,2.0,7
+Wolves,2025-10-18 15:00:00,0.0,actual,2.0,8
+Wolves,2025-10-26 14:00:00,0.0,actual,2.0,9
+Wolves,2025-11-01 15:00:00,0.0,actual,2.0,10
+Wolves,2025-11-08 20:00:00,0.0,actual,2.0,11
+Wolves,2025-11-22 15:00:00,0.0,actual,2.0,12
+Wolves,2025-11-30 14:05:00,0.0,actual,2.0,13
+Wolves,2025-12-03 19:30:00,0.0,actual,2.0,14
+Wolves,2025-12-08 20:00:00,0.0,actual,2.0,15
+Wolves,2025-12-13 20:00:00,0.0,actual,2.0,16
+Wolves,2025-12-20 15:00:00,0.0,actual,2.0,17
+Wolves,2025-12-27 15:00:00,0.0,actual,2.0,18
+Wolves,2025-12-30 20:15:00,1.0,actual,3.0,19
+Wolves,2026-01-03 15:00:00,3.0,actual,6.0,20
+Wolves,2026-01-07 19:30:00,1.0,actual,7.0,21
+Wolves,2026-01-18 14:00:00,1.0,actual,8.0,22
+Wolves,2026-01-24 15:00:00,0.0,actual,8.0,23
+Wolves,2026-01-31 15:00:00,0.0,actual,8.0,24
+Wolves,2026-02-07 15:00:00,0.0,actual,8.0,25
+Wolves,2026-02-11 19:30:00,1.0,actual,9.0,26
+Wolves,2026-02-18 20:00:00,1.0,actual,10.0,27
+Wolves,2026-02-22 14:00:00,0.0,actual,10.0,28
+Wolves,2026-02-27 20:00:00,3.0,actual,13.0,29
+Wolves,2026-03-03 20:15:00,3.0,actual,16.0,30
+Wolves,2026-03-16 20:00:00,1.0,actual,17.0,31

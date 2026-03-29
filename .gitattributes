@@ -1,0 +1,2 @@
+# GitHub file limit is 100 MB; model artifact is ~130+ MB — use Git LFS
+models/best_model.pkl filter=lfs diff=lfs merge=lfs -text

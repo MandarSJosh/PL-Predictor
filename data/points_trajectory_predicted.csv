@@ -1,0 +1,141 @@
+Team,Date,pts,type,Points
+Arsenal,2026-04-11 12:30:00,2.0,projected,72
+Arsenal,2026-04-19 16:30:00,2.0,projected,74
+Arsenal,2026-04-25 17:30:00,2.0,projected,76
+Arsenal,2026-05-02 17:30:00,2.0,projected,78
+Arsenal,2026-05-09 15:00:00,2.0,projected,80
+Arsenal,2026-05-17 15:00:00,2.0,projected,82
+Arsenal,2026-05-24 16:00:00,3.0,projected,85
+Aston Villa,2026-04-12 14:00:00,2.0,projected,56
+Aston Villa,2026-04-19 14:00:00,2.0,projected,58
+Aston Villa,2026-04-25 12:30:00,2.0,projected,60
+Aston Villa,2026-05-02 12:30:00,2.0,projected,62
+Aston Villa,2026-05-09 15:00:00,2.0,projected,64
+Aston Villa,2026-05-17 15:00:00,2.0,projected,66
+Aston Villa,2026-05-24 16:00:00,0.0,projected,66
+Bournemouth,2026-04-11 12:30:00,1.0,projected,43
+Bournemouth,2026-04-18 15:00:00,1.0,projected,44
+Bournemouth,2026-04-25 15:00:00,1.0,projected,45
+Bournemouth,2026-05-02 15:00:00,1.0,projected,46
+Bournemouth,2026-05-09 15:00:00,1.0,projected,47
+Bournemouth,2026-05-17 15:00:00,1.0,projected,48
+Bournemouth,2026-05-24 16:00:00,1.0,projected,49
+Brentford,2026-04-11 15:00:00,2.0,projected,48
+Brentford,2026-04-18 12:30:00,2.0,projected,50
+Brentford,2026-04-27 20:00:00,2.0,projected,52
+Brentford,2026-05-02 15:00:00,2.0,projected,54
+Brentford,2026-05-09 15:00:00,2.0,projected,56
+Brentford,2026-05-17 15:00:00,2.0,projected,58
+Brentford,2026-05-24 16:00:00,0.0,projected,58
+Brighton,2026-04-11 15:00:00,2.0,projected,45
+Brighton,2026-04-18 17:30:00,2.0,projected,47
+Brighton,2026-04-26 16:30:00,2.0,projected,49
+Brighton,2026-05-02 15:00:00,2.0,projected,51
+Brighton,2026-05-09 15:00:00,2.0,projected,53
+Brighton,2026-05-17 15:00:00,2.0,projected,55
+Brighton,2026-05-24 16:00:00,1.0,projected,56
+Burnley,2026-04-11 15:00:00,0.0,projected,20
+Burnley,2026-04-19 14:00:00,0.0,projected,20
+Burnley,2026-04-26 14:00:00,0.0,projected,20
+Burnley,2026-05-01 20:00:00,0.0,projected,20
+Burnley,2026-05-09 15:00:00,0.0,projected,20
+Burnley,2026-05-17 15:00:00,0.0,projected,20
+Burnley,2026-05-24 16:00:00,3.0,projected,23
+Chelsea,2026-04-12 16:30:00,2.0,projected,50
+Chelsea,2026-04-18 20:00:00,2.0,projected,52
+Chelsea,2026-04-26 16:30:00,2.0,projected,54
+Chelsea,2026-05-04 15:00:00,2.0,projected,56
+Chelsea,2026-05-09 15:00:00,2.0,projected,58
+Chelsea,2026-05-17 15:00:00,2.0,projected,60
+Chelsea,2026-05-24 16:00:00,4.0,projected,64
+Crystal Palace,2026-04-12 14:00:00,1.0,projected,40
+Crystal Palace,2026-04-20 20:00:00,1.0,projected,41
+Crystal Palace,2026-04-25 15:00:00,1.0,projected,42
+Crystal Palace,2026-05-02 15:00:00,1.0,projected,43
+Crystal Palace,2026-05-09 15:00:00,1.0,projected,44
+Crystal Palace,2026-05-17 15:00:00,1.0,projected,45
+Crystal Palace,2026-05-24 16:00:00,3.0,projected,48
+Everton,2026-04-11 15:00:00,1.0,projected,47
+Everton,2026-04-19 14:00:00,1.0,projected,48
+Everton,2026-04-25 15:00:00,1.0,projected,49
+Everton,2026-05-04 20:00:00,1.0,projected,50
+Everton,2026-05-09 15:00:00,1.0,projected,51
+Everton,2026-05-17 15:00:00,1.0,projected,52
+Everton,2026-05-24 16:00:00,3.0,projected,55
+Fulham,2026-04-11 17:30:00,1.0,projected,45
+Fulham,2026-04-18 12:30:00,1.0,projected,46
+Fulham,2026-04-25 12:30:00,1.0,projected,47
+Fulham,2026-05-02 17:30:00,1.0,projected,48
+Fulham,2026-05-09 15:00:00,1.0,projected,49
+Fulham,2026-05-17 15:00:00,1.0,projected,50
+Fulham,2026-05-24 16:00:00,3.0,projected,53
+Leeds,2026-04-13 20:00:00,1.0,projected,34
+Leeds,2026-04-18 15:00:00,1.0,projected,35
+Leeds,2026-04-25 15:00:00,1.0,projected,36
+Leeds,2026-05-01 20:00:00,1.0,projected,37
+Leeds,2026-05-09 15:00:00,1.0,projected,38
+Leeds,2026-05-17 15:00:00,1.0,projected,39
+Leeds,2026-05-24 16:00:00,1.0,projected,40
+Liverpool,2026-04-11 17:30:00,2.0,projected,51
+Liverpool,2026-04-19 14:00:00,2.0,projected,53
+Liverpool,2026-04-25 15:00:00,2.0,projected,55
+Liverpool,2026-05-03 15:30:00,2.0,projected,57
+Liverpool,2026-05-09 15:00:00,2.0,projected,59
+Liverpool,2026-05-17 15:00:00,2.0,projected,61
+Liverpool,2026-05-24 16:00:00,0.0,projected,61
+Manchester City,2026-04-12 16:30:00,1.0,projected,62
+Manchester City,2026-04-19 16:30:00,1.0,projected,63
+Manchester City,2026-04-26 14:00:00,1.0,projected,64
+Manchester City,2026-05-04 20:00:00,1.0,projected,65
+Manchester City,2026-05-09 15:00:00,1.0,projected,66
+Manchester City,2026-05-17 15:00:00,1.0,projected,67
+Manchester City,2026-05-24 16:00:00,3.0,projected,70
+Manchester United,2026-04-13 20:00:00,1.0,projected,56
+Manchester United,2026-04-18 20:00:00,1.0,projected,57
+Manchester United,2026-04-27 20:00:00,1.0,projected,58
+Manchester United,2026-05-03 15:30:00,1.0,projected,59
+Manchester United,2026-05-09 15:00:00,1.0,projected,60
+Manchester United,2026-05-17 15:00:00,1.0,projected,61
+Manchester United,2026-05-24 16:00:00,1.0,projected,62
+Newcastle,2026-04-12 14:00:00,2.0,projected,44
+Newcastle,2026-04-18 15:00:00,2.0,projected,46
+Newcastle,2026-04-25 17:30:00,2.0,projected,48
+Newcastle,2026-05-02 15:00:00,2.0,projected,50
+Newcastle,2026-05-09 15:00:00,2.0,projected,52
+Newcastle,2026-05-17 15:00:00,2.0,projected,54
+Newcastle,2026-05-24 16:00:00,0.0,projected,54
+Nottingham Forest,2026-04-12 14:00:00,1.0,projected,33
+Nottingham Forest,2026-04-19 14:00:00,1.0,projected,34
+Nottingham Forest,2026-04-24 20:00:00,1.0,projected,35
+Nottingham Forest,2026-05-04 15:00:00,1.0,projected,36
+Nottingham Forest,2026-05-09 15:00:00,1.0,projected,37
+Nottingham Forest,2026-05-17 15:00:00,1.0,projected,38
+Nottingham Forest,2026-05-24 16:00:00,4.0,projected,42
+Sunderland,2026-04-12 14:00:00,2.0,projected,45
+Sunderland,2026-04-19 14:00:00,2.0,projected,47
+Sunderland,2026-04-24 20:00:00,2.0,projected,49
+Sunderland,2026-05-02 15:00:00,2.0,projected,51
+Sunderland,2026-05-09 15:00:00,2.0,projected,53
+Sunderland,2026-05-17 15:00:00,2.0,projected,55
+Sunderland,2026-05-24 16:00:00,0.0,projected,55
+Tottenham,2026-04-12 14:00:00,2.0,projected,32
+Tottenham,2026-04-18 17:30:00,2.0,projected,34
+Tottenham,2026-04-25 15:00:00,2.0,projected,36
+Tottenham,2026-05-02 12:30:00,2.0,projected,38
+Tottenham,2026-05-09 15:00:00,2.0,projected,40
+Tottenham,2026-05-17 15:00:00,2.0,projected,42
+Tottenham,2026-05-24 16:00:00,0.0,projected,42
+West Ham,2026-04-10 20:00:00,2.0,projected,31
+West Ham,2026-04-20 20:00:00,2.0,projected,33
+West Ham,2026-04-25 15:00:00,2.0,projected,35
+West Ham,2026-05-02 15:00:00,2.0,projected,37
+West Ham,2026-05-09 15:00:00,2.0,projected,39
+West Ham,2026-05-17 15:00:00,2.0,projected,41
+West Ham,2026-05-24 16:00:00,3.0,projected,44
+Wolves,2026-04-10 20:00:00,1.0,projected,18
+Wolves,2026-04-18 15:00:00,1.0,projected,19
+Wolves,2026-04-25 15:00:00,1.0,projected,20
+Wolves,2026-05-02 15:00:00,1.0,projected,21
+Wolves,2026-05-09 15:00:00,1.0,projected,22
+Wolves,2026-05-17 15:00:00,1.0,projected,23
+Wolves,2026-05-24 16:00:00,3.0,projected,26

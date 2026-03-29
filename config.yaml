@@ -1,0 +1,38 @@
+# Configuration file for Premier League Prediction System
+
+# Data Collection
+data_collection:
+  start_season: "2018-2019"
+  end_season: "2024-2025"
+  delay: 2.0  # seconds between requests
+  data_dir: "data"
+
+# Feature Engineering
+feature_engineering:
+  form_window: 5  # Last N matches for form
+  stats_window: 10  # Last N matches for rolling stats
+
+# Model Training
+model_training:
+  test_size: 0.2
+  random_state: 42
+  optimize_hyperparameters: true
+  n_trials: 50  # Optuna trials
+  model_dir: "models"
+
+# MLflow
+mlflow:
+  experiment_name: "premier_league_2025_26"
+  tracking_uri: "sqlite:///mlruns.db"
+
+# API
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: false
+
+# Dashboard
+dashboard:
+  api_url: "http://localhost:8000"
+  port: 8501
+

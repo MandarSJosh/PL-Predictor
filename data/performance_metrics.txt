@@ -1,0 +1,8 @@
+Test set size: 594
+Accuracy: 0.5185 (51.85%)
+Macro F1: 0.4929
+Weighted F1: 0.5171
+Precision (macro): 0.4970
+Recall (macro): 0.4922
+Log Loss: 1.0427
+Draw calibration: margin=0.18, floor=0.05
