@@ -1,4 +1,6 @@
-# Premier League 2025/26 — Match Outcome & Table Predictor
+# PL-Predictor — Premier League 2025/26 Match Outcome & Table Predictor
+
+**GitHub:** [github.com/MandarSJosh/PL-Predictor](https://github.com/MandarSJosh/PL-Predictor)
 
 XGBoost ensemble (calibrated, **~51.9%** accuracy, macro F1 **~0.49**) trained on H2H history, rolling form (5 & 10 game windows), squad value, manager PPG & honours, and related signals. Predicts remaining fixtures and projects the final table.
 
@@ -17,18 +19,21 @@ XGBoost ensemble (calibrated, **~51.9%** accuracy, macro F1 **~0.49**) trained o
 ## Repository layout
 
 ```
-pl-predictor/
-├── app.py                 # Root entry (runs src/dashboard/app.py)
+PL-Predictor/
+├── app.py                      # Streamlit entry → src/dashboard/app.py
 ├── requirements.txt
-├── build_predicted_table.py
+├── build_predicted_table.py    # Rebuild predicted table from current_table + model
+├── config.yaml
 ├── src/
-│   ├── dashboard/app.py   # Main Streamlit app
+│   ├── dashboard/app.py        # Main Streamlit UI
+│   ├── data_collection/
 │   ├── feature_engineering/
 │   ├── models/
 │   └── utils/
-├── data/                  # Tables, features, metrics (committed)
+├── data/                       # CSVs used by the dashboard (tables, features, metrics)
 ├── models/
-│   └── best_model.pkl     # Tracked with Git LFS (~130+ MB)
+│   └── best_model.pkl          # Git LFS (~130+ MB) — add per README below
+├── docs/                       # Install guides, architecture, weather API, etc.
 └── README.md
 ```
 
@@ -57,6 +62,13 @@ git push
 `git lfs migrate import --include="models/best_model.pkl" --everything`
 
 ---
+
+## Clone this repo
+
+```bash
+git clone https://github.com/MandarSJosh/PL-Predictor.git
+cd PL-Predictor
+```
 
 ## Local run
 
