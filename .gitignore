@@ -40,3 +40,13 @@ logs/
 # Local / binary clutter (do not publish)
 mlflow.db
 *.zip
+
+# Packaging / tooling (GitHub Python template extras)
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
