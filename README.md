@@ -1,6 +1,7 @@
 # PL-Predictor — Premier League 2025/26 Match Outcome & Table Predictor
 
-**GitHub:** [github.com/MandarSJosh/PL-Predictor](https://github.com/MandarSJosh/PL-Predictor)
+**GitHub:** [github.com/MandarSJosh/PL-Predictor](https://github.com/MandarSJosh/PL-Predictor)  
+**Live app:** [pl-predictor-mandar.streamlit.app](https://pl-predictor-mandar.streamlit.app/)
 
 XGBoost ensemble (calibrated, **~51.9%** accuracy, macro F1 **~0.49**) trained on H2H history, rolling form (5 & 10 game windows), squad value, manager PPG & honours, and related signals. Predicts remaining fixtures and projects the final table.
 
@@ -85,11 +86,15 @@ Ensure `data/` contains at least `predicted_table.csv`, `current_table.csv`, `ra
 
 ## Deploy on Streamlit Community Cloud (free)
 
+**This project is deployed at:** [https://pl-predictor-mandar.streamlit.app/](https://pl-predictor-mandar.streamlit.app/)
+
+To deploy or redeploy yourself:
+
 1. Push this repo to GitHub (with LFS for the model).  
 2. Sign in at [share.streamlit.io](https://share.streamlit.io).  
 3. **New app** → pick the repo → **Main file path:** `app.py` (repo root).  
-4. Python version: **3.11** (or 3.10) is a safe default.  
-5. Deploy; cold start may take a minute while dependencies install.
+4. Python version: **3.12** or **3.11** is a good default.  
+5. Deploy; cold start may take a few minutes while dependencies install.
 
 ---
 
